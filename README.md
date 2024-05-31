@@ -3,7 +3,9 @@
 This Java program simulates a simple banking system where users can create an account, deposit money, withdraw money, and view account details.
 
 balance: A static double variable to keep track of the account balance.
+
 name: A static string to store the account holder's name.
+
 accountNumber: A static integer to store the account number.
 
 Initializes a Scanner object for user input.
